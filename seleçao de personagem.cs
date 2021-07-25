@@ -2,6 +2,7 @@ using UnityEngine;
 using System.Collections;
 public class DATA : MonoBehaviour
 {
+   //codigo para a seleção e escolha
     private GameObject[] Datas;
     public static int PersonagemAInstanciar;
     void Awake()

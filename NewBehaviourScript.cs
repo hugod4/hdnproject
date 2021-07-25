@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-
+//codigo de interação com o mouse
 public class Botao : MonoBehaviour
 {
     bool mouseDentroDoObjeto;
